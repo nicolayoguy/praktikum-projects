@@ -1,5 +1,5 @@
 # praktikum-projects
-My projects for Yandex Praktikum Data Analysis course:
+My projects for Yandex Praktikum Data Analysis course:<br>
 (right now in Russian only, but English version is in progress)
 
 - [Realty market analysis](https://github.com/nicolayoguy/praktikum-projects/blob/main/spb_realty_project.ipynb)
