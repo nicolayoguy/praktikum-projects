@@ -1,4 +1,4 @@
-# Living Property for Sale in Saint-Petersburg
-Study projects for Yandex Praktikum Data Analysis course:<br>
-- [Realty market analysis. Full version – Russian](https://github.com/nicolayoguy/praktikum-projects/blob/main/real_estate/spb_realty_project.ipynb)
-- [Realty market analysis. Abridged version – English](https://github.com/nicolayoguy/praktikum-projects/blob/main/real_estate/real_estate_market_en.ipynb) (in progress)
+# Mobile users analysis
+
+Analyzing cellphone usage statistics to determine the profitability of the tariff for the telecom company.
+[The notebook with the report](https://github.com/nicolayoguy/praktikum-projects/blob/main/telecom_tariff/telecom_tariff_project.ipynb)
