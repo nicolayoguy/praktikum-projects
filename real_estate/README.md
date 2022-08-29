@@ -1,4 +1,4 @@
-# Living Property for Sale in Saint-Petersburg
+# Residential Property for Sale in Saint-Petersburg
 
 Quite big and detailed research of residential property in a big city. Lots of data cuts and descriptive statistics.
 
