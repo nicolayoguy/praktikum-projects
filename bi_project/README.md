@@ -1,4 +1,5 @@
-# Living Property for Sale in Saint-Petersburg
-Study projects for Yandex Praktikum Data Analysis course:<br>
-- [Realty market analysis. Full version – Russian](https://github.com/nicolayoguy/praktikum-projects/blob/main/real_estate/spb_realty_project.ipynb)
-- [Realty market analysis. Abridged version – English](https://github.com/nicolayoguy/praktikum-projects/blob/main/real_estate/real_estate_market_en.ipynb) (in progress)
+# Unit economics of the mobile app
+
+An exercise in full-fledged marketing analysis: calculating from scratch and analyzing all the basic metrics: conversion, retention, LTV, ROI. Lots of beautiful graphs and highlight tables inside. Using only Pandas for calculation and Matplotlib for viz.
+
+- [Look at the Jupyther Notebook. In Russian](https://github.com/nicolayoguy/praktikum-projects/blob/main/bi_project/bi_project_git_ver.ipynb)
