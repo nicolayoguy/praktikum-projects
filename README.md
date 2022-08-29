@@ -1,4 +1,4 @@
-# Portfolio: study projects and public reports I made for Yandex Research
+# Portfolio: study projects and public reports for Yandex Research
 
 Here are some of my works in the field of data analysis: 
 1. Study projects I made for Yandex Praktikum Data Analysis course - Jupyter notebooks showing the analysis proccess from start to end.
