@@ -2,7 +2,7 @@
 
 Here are some of my works in the field of data analysis: 
 1. Study projects I made for Yandex Praktikum Data Analysis course - Jupyter notebooks showing the analysis proccess from start to end.
-2. Job projects I made while working for Yandex Public Research - links to final reports only, all the dirty job with data left behind the scene.
+2. Job projects I made while working for [Yandex Public Research](https://yandex.ru/company/researches/) - links to final reports only, all the dirty job with data left behind the scene.
 
 ## Yandex Practicum projects
 - [Mobile app unit economics analysis](https://github.com/nicolayoguy/praktikum-projects/blob/main/bi_project/)
@@ -25,3 +25,31 @@ Here are some of my works in the field of data analysis:
 <br><a href="https://github.com/nicolayoguy/praktikum-projects/blob/main/telecom_tariff/"><img src="https://github.com/nicolayoguy/praktikum-projects/blob/main/pics/telecom_churn.png" width="30%"/></a>
 
 ## Yandex Public Research reports
+- Residential and working districts in Moscow
+<br>An example of beautiful research based on quite simple data – a set of “home” and “job” user points from the Yandex navigation app.
+<br>Using these data we analyzed which districts are mainly residential and which are working areas, do urban dwellers tend to work close to their jobs, and how much time they spend commuting.
+<br>Interactive maps allowed us to visualize multidimensional data in a compact form.
+<br><a href="https://yandex-ru.translate.goog/company/researches/2016/home_work?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp"><img src="https://github.com/nicolayoguy/praktikum-projects/blob/main/pics/commute_map.png" width="30%"/></a>
+<br>[Report in Russian](https://yandex.ru/company/researches/2016/home_work)
+<br>[Machine translation to English](https://yandex-ru.translate.goog/company/researches/2016/home_work?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
