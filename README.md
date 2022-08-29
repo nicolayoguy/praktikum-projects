@@ -25,14 +25,20 @@ Here are some of my works in the field of data analysis:
 <br><a href="https://github.com/nicolayoguy/praktikum-projects/blob/main/telecom_tariff/"><img src="https://github.com/nicolayoguy/praktikum-projects/blob/main/pics/telecom_churn.png" width="30%"/></a>
 
 ## Yandex Public Research reports
-- Residential and working districts in Moscow
+- [Residential and working districts in Moscow](https://yandex-ru.translate.goog/company/researches/2016/home_work?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 <br>An example of beautiful research based on quite simple data – a set of “home” and “job” user points from the Yandex navigation app.
 <br>Using these data we analyzed which districts are mainly residential and which are working areas, do urban dwellers tend to work close to their jobs, and how much time they spend commuting.
 <br>Interactive maps allowed us to visualize multidimensional data in a compact form.
 <br><a href="https://yandex-ru.translate.goog/company/researches/2016/home_work?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp"><img src="https://github.com/nicolayoguy/praktikum-projects/blob/main/pics/commute_map.png" width="30%"/></a>
 <br>[Report in Russian](https://yandex.ru/company/researches/2016/home_work)
 <br>[Machine translation to English](https://yandex-ru.translate.goog/company/researches/2016/home_work?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
-
+- [What customers say in feedback on tradespeople](https://yandex-ru.translate.goog/company/researches/2020/services?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
+<br>Quite a simple but interesting report based on the texts of the feedback that customers give to the tradespeople working through online classified service.
+<br>Do customers tend to review male and female, old and young professionals in a different way?
+<br>Do people appreciate different traits in hairdressers and porters?
+<br><a href="https://yandex-ru.translate.goog/company/researches/2020/services?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp"><img src="https://github.com/nicolayoguy/praktikum-projects/blob/main/pics/feedback_words.png" width="30%"/></a>
+<br>[Report in Russian](https://yandex.ru/company/researches/2020/services)
+<br>[Machine translation to English](https://yandex-ru.translate.goog/company/researches/2020/services?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 
 
 
