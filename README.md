@@ -16,7 +16,7 @@ Here are some of my works in the field of data analysis:
 <br><a href="https://github.com/nicolayoguy/praktikum-projects/blob/main/video_games/"><img src="https://github.com/nicolayoguy/praktikum-projects/blob/main/pics/games_sony.png" width="30%"/></a>
 - [AB-test results analysis](https://github.com/nicolayoguy/praktikum-projects/blob/main/ab_test/)
 <br>Analyze the results of a badly performed AB test – catching anomalies and discrepancies in the data.
-<br><a href="https://github.com/nicolayoguy/praktikum-projects/blob/main/ab_test/"><img src="https://github.com/nicolayoguy/praktikum-projects/blob/main/pics/ab_conversion.png" width="30%"/></a>>
+<br><a href="https://github.com/nicolayoguy/praktikum-projects/blob/main/ab_test/"><img src="https://github.com/nicolayoguy/praktikum-projects/blob/main/pics/ab_conversion.png" width="30%"/></a>
 - [Moscow catering market analysis](https://github.com/nicolayoguy/praktikum-projects/blob/main/city_cafe/)
 <br>The data and the task are quite simple – but we enriched our addresses with geo coordinates an got some nice maps.
 <br><a href="https://github.com/nicolayoguy/praktikum-projects/blob/main/city_cafe/"><img src="https://github.com/nicolayoguy/praktikum-projects/blob/main/pics/cafe_maps.png" alt="map example" width="30%"/></a>

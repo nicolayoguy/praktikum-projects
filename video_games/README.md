@@ -1,4 +1,6 @@
-# Living Property for Sale in Saint-Petersburg
-Study projects for Yandex Praktikum Data Analysis course:<br>
-- [Realty market analysis. Full version – Russian](https://github.com/nicolayoguy/praktikum-projects/blob/main/real_estate/spb_realty_project.ipynb)
-- [Realty market analysis. Abridged version – English](https://github.com/nicolayoguy/praktikum-projects/blob/main/real_estate/real_estate_market_en.ipynb) (in progress)
+# Video Games Market Analysis
+
+Extensive excercise in the field of video games. Lots of descriptive statistics and pics. Enriched given data with some easily available info from open sources (attributed platforms to the companies and types) and ended with a much more interesting and reasonable result.
+<br><a href="https://github.com/nicolayoguy/praktikum-projects/blob/main/video_games/"><img src="https://github.com/nicolayoguy/praktikum-projects/blob/main/pics/games_sony.png" width="70%"/></a>
+
+[Look at the Jupyther Notebook. In Russian](https://github.com/nicolayoguy/praktikum-projects/blob/main/video_games/)
