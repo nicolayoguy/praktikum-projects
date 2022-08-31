@@ -1,8 +1,8 @@
 # Portfolio: study projects and public reports for Yandex Research
 
 Here are some of my works in the field of data analysis: 
-1. Study projects I made for Yandex Praktikum Data Analysis course - Jupyter notebooks showing the analysis proccess from start to end.
-2. Job projects I made while working for [Yandex Public Research](https://yandex.ru/company/researches/) - links to final reports only, all the dirty job with data left behind the scene.
+1. [Study projects](#yandex-practicum-projects)  I made for Yandex Praktikum Data Analysis course - Jupyter notebooks showing the analysis proccess from start to end.
+2. [Job projects](#yandex-public-research-reports) I made while working for [Yandex Public Research](https://yandex.ru/company/researches/) - links to final reports only, all the dirty job with data left behind the scene.
 
 ## Yandex Practicum projects
 - [Mobile app unit economics analysis](https://github.com/nicolayoguy/praktikum-projects/blob/main/bi_project/)
